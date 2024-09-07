@@ -22,6 +22,13 @@
 ## 💻 Technology
 
 ### 🕸️ FrontEnd
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /> 
+
+
 
 <br><br>
 
@@ -36,8 +43,10 @@
 <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white" /> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /> <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" /> 
-<img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=GithubActions&logoColor=white" />  
+<img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=GithubActions&logoColor=white" />
+
 <br><br>
+
 
 ### 🌎 Co-Work
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />](https://github.com/FITPET-A)
