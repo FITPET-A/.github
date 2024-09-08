@@ -44,13 +44,13 @@ FitPet A조, Pit-A-Pet <br>
 
 <br><br>
 
-### 문제 인식
+### |  문제 인식
 ![2](https://github.com/user-attachments/assets/597db458-da96-41fb-8733-5a87c00b41db)  <br><br><br>
 
 
 
 
-### 문제 정의
+### | 문제 정의
 펫보험은 반려동물의 건강과 직결된다는 점에서 고관여 상품임에도 불구하고 다양하고 복잡한 상품, 어려운 설명 등으로 인해 유저들은 **1) 정보의 비대칭 문제**라는 페인포인트에 직면합니다. 
 
 이로 인해 유저들은 최대한 합리적이고 적합한 상품을 선택하고자 믿을만하고 원하는 정보를 제공하는 대리 기관을 모색하게 됩니다. 그러나 이 과정에서 **2) 원치 않는 가입 유도 등의 문제**에 예민하게 반응하기 때문에 **정확하고 필요한 정보를 제공하는, 신뢰할 수 있는 창구**를 필요로 합니다. 따라서 해당 니즈를 충족시켜야 가망고객 전환율을 높일 수 있습니다. <br>
@@ -69,7 +69,7 @@ FitPet A조, Pit-A-Pet <br>
 
 
 
-### 프로젝트 목표
+### | 프로젝트 목표
 따라서, 저희는 ‘가망고객 DB 전환율 상승’이라는 프로젝트 목표 아래 다음과 같은 세 가지 세부 목표에 따라 프로젝트를 진행했습니다.
 ![프로젝트 목표](https://github.com/user-attachments/assets/84c4e2ec-efed-4d21-b34f-368ca4a23325) <br><br><br>
 
@@ -77,7 +77,7 @@ FitPet A조, Pit-A-Pet <br>
 
 
 
-### 경쟁사 분석
+### | 경쟁사 분석
 한편 펫보험 견적을 제공하는 경쟁사를 분석한 결과는 다음과 같습니다. <br>
 | 서비스명 | 카카오 펫보험 | 비마이펫 | PETFINS | 개별 전문가 및 보험회사직원 | SC |
 | --- | --- | --- | --- | --- | --- |
@@ -107,7 +107,7 @@ FitPet A조, Pit-A-Pet <br>
 
 
 
-### 서비스 타겟 정의
+### | 서비스 타겟 정의
 서비스의 타겟은 다음과 같습니다. <br>
 ![4](https://github.com/user-attachments/assets/9963c1e2-7ec0-4850-ba5b-2f39c8304889) <br><br>
 이들을 대상으로 서비스 이용에 대한 장벽을 낮추고 SC에 대한 신뢰를 형성했을 때 각각의 목표 과제를 달성하여 DB 전환율을 높일 수 있을 것입니다. <br><br><br>
@@ -116,7 +116,7 @@ FitPet A조, Pit-A-Pet <br>
 
 
 
-### 솔루션 도출
+### | 솔루션 도출
 ![6](https://github.com/user-attachments/assets/cc72cd46-54a2-4b8c-9e14-cad7be116ed5)
 ![7](https://github.com/user-attachments/assets/b099adb0-d62e-442f-a076-d366eec80e91)
 ![8](https://github.com/user-attachments/assets/74ad31c0-5b2f-4b33-a907-8c47f005ba80)
@@ -126,7 +126,7 @@ FitPet A조, Pit-A-Pet <br>
 
 
 
-### 브랜딩 및 캐릭터 디자인
+### | 브랜딩 및 캐릭터 디자인
 정보 비대칭으로 인한 불확실성과 불안감을 해소하기 위해 SC 전반에 걸쳐 친근함을 전달할 수 있는 캐릭터를 제작했습니다. <br>
 ![캐릭터 1](https://github.com/user-attachments/assets/7a3a0fa1-4b8d-4a2d-b231-6a874ca3b4bf)
 ![캐릭터 2](https://github.com/user-attachments/assets/87b15c08-332c-41e5-975a-498ef4b9f690) <br><br><br><br>
@@ -149,14 +149,14 @@ FitPet A조, Pit-A-Pet <br>
 
 
 
-### 문제 정의 및 솔루션 도출
+### | 문제 정의 및 솔루션 도출
 고객 데이터를 엑셀 데이터 베이스에서 수기로 입력하는 과정에서 단순/반복 업무량이 증가하게 됩니다. 또한 추후 가망고객 전환율이 증가했을 때 견적서 발송 및 상담 과정이 지연되는 위험이 존재합니다. 따라서 단순 업무를 반 자동화함으로써 휴먼 에러를 없애고 1일 2시간 이상 소요되는 업무 시간 단축하고자 합니다. <br>
 ![11](https://github.com/user-attachments/assets/d567f855-84ae-4203-91fb-74339bcdc4a9)
 ![12](https://github.com/user-attachments/assets/84338534-10a4-4c97-b698-5c79f9ec207a) <br><br><br>
 
 
 
-### 어드민 페이지 구축
+### | 어드민 페이지 구축
 아래와 같은 방식으로 SC 자체의 어드민 페이지를 구축, 효율적인 업무 처리를 꾀했습니다. <br>
 ![15](https://github.com/user-attachments/assets/d545b24a-f902-4940-a210-71247e045ab0)
 ![16](https://github.com/user-attachments/assets/f4a9c681-9e64-4fa8-b59d-666a680985cb)
